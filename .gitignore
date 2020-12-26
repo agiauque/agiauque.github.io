@@ -32,5 +32,4 @@
 *.app
 
 #Building files
-*.md
 Gemfile*

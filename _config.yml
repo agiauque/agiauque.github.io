@@ -1,1 +1,14 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
+title: Alexis Giauque<br/> Associate Professor<br/> Ecole Centrale de Lyon 
+description: Welcome to my professional homepage! 
+name: A.Giauque
+
+# Author Settings
+author: Alexis Giauque # add your name
+author-img: .jpg # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: agiauque # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
