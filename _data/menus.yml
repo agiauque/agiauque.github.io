@@ -1,0 +1,19 @@
+---
+header:
+  - url: /index.html#research-projects
+    title: Research Projects
+    identifier: projects
+    weight: 2
+  - url: /index.html#lectures--courses
+    title: Lectures & Courses 
+    identifier: lectures
+    weight: 2
+  - url: /index.html#vitae
+    title: Vitae
+    identifier: vitae
+    weight: 2
+  - url: /index.html#contact
+    title: Contact
+    identifier: contact
+    weight: 2
+---

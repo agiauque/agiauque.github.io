@@ -33,3 +33,7 @@
 
 #Building files
 Gemfile*
+private/
+.DS_store
+.git/
+.gitignore
