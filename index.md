@@ -1,9 +1,9 @@
 ---
 layouts: default
 ---
-I am associate professor at Ecole Centrale de Lyon in the Laboratoire de Mécanique des Fluides et Acoustique.
+Welcome to my professional homepage!
 
-# Research Projects
+# Research
 
 I am associate professor at [Ecole Centrale de Lyon](https://campus.ec-lyon.fr/) in the [Laboratoire de Mécanique des Fluides et Acoustique](http://lmfa.ec-lyon.fr/).  
 I belong to the [Turbomachinery research department](http://lmfa.ec-lyon.fr/spip.php?rubrique63&lang=en) lead by Xavier Ottavy.  
@@ -12,29 +12,32 @@ My research interests include Turbomachinery flows, combustion, acoustics and tu
 
 ## Focus on Dense Gas Turbulence Modeling
 
-Dense gases, characterized by large molar masses and heat capacities are used in ORC (Organic Rankine Cycle) systems such as the one presented in the picture below.It is used to convert solar energy into electricity more efficiently. 
+Dense gases, characterized by large molar masses and heat capacities are used in ORC (Organic Rankine Cycle) systems such as the one presented in the picture below. It is used to convert solar energy into electricity more efficiently. 
 
 ![ORC](/assets/images/orc.jpg)
 Credit : STG international
 
-To improve expanders and turbines efficiencies, manufacturers rely on Computational Fluid Dynamics (CFD) techniques such as Reynolds Average Navier-Stokes (RANS) or Large Eddy Simulation (LES). **Yet, turbulence in dense gas flows is poorly understood and all turbulence closure models available rely on the perfect gas hypothesis**
+To improve expanders and turbines efficiencies, manufacturers rely on Computational Fluid Dynamics (CFD) techniques such as Reynolds Average Navier-Stokes (RANS) or Large Eddy Simulation (LES). **Yet, turbulence in dense gas flows remains to be understood and new turbulence closure models need to be developed beyond the perfect gas hypothesis**
 
-### Beyond the perfect gas hypothesis 
+## Beyond the perfect gas hypothesis 
 
 **To analyze and model the peculiar behavior of turbulence in dense gas flows, the ANR project EDGES (project grant #ANR-17-CE06-0014-01) has been launched in 2018 for a duration of 4 years.**
-This project involves [Christophe Corre](https://www.researchgate.net/profile/Christophe_Corre2), [Aurélien Vadrot](https://www.researchgate.net/profile/Aurelien_Vadrot) and [Paolo Errante](https://www.researchgate.net/profile/Paolo_Errante2).
+
+This project involves [Christophe Corre (Full Professor)](https://www.researchgate.net/profile/Christophe_Corre2), [Aurélien Vadrot (PhD Student)](https://www.researchgate.net/profile/Aurelien_Vadrot) and [Paolo Errante (Postdoctoral Research Fellow)](https://www.researchgate.net/profile/Paolo_Errante2).
 
 ![focus1](/assets/images/focus1.png)
 
 ![focus2](/assets/images/focus2.png)
 
-### Using Machine learning to model turbulence and thermodynamics in dense gas flows
+## Using Machine learning to model turbulence and thermodynamics in dense gas flows
 
-**A database of more than 10 billion grid points has been gathered using the [AVBP solver](http://www.cerfacs.fr/avbp7x/)**
+**A database of more than 10 billion grid points has been gathered using the [AVBP solver.](http://www.cerfacs.fr/avbp7x/)** Using HPC and Machine learning, the team is currently developing turbulence closure models for RANS and LES.
 
 ![focus3](/assets/images/focus3.png)
 
-### What's next?
+## What's next?
+
+Once the models developed, **they will be validated against experimental results and transfered to the industry** in order to enable a better optimization of renewable energy production systems that use dense gas flows.
 
 ![focus4](/assets/images/focus4.png)
 
@@ -116,25 +119,9 @@ This project involves [Christophe Corre](https://www.researchgate.net/profile/Ch
 
 # Contact
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -144,26 +131,13 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-
-##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
-
-###### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -171,49 +145,6 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
@@ -227,10 +158,6 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.

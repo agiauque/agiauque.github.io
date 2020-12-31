@@ -1,12 +1,12 @@
 ---
 header:
-  - url: /index.html#research-projects
-    title: Research Projects
+  - url: /index.html#research
+    title: Research
     identifier: projects
     weight: 2
     submenu :
       - url: /index.html#focus-on-dense-gas-turbulence-modeling
-        title: Focus on Dense Gas Turbulence
+        title: Focus on Dense Gas Turbulence (ANR Project EDGES)
         identifier: focus
         weight: 2
       - url: /index.html#publications--conferences
