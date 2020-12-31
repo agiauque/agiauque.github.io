@@ -4,6 +4,15 @@ header:
     title: Research Projects
     identifier: projects
     weight: 2
+    submenu :
+      - url: /index.html#focus-on-dense-gas-turbulence-modeling
+        title: Focus on Dense Gas Turbulence
+        identifier: focus
+        weight: 2
+      - url: /index.html#publications--conferences
+        title: Publications & Conferences
+        identifier: publi
+        weight: 2
   - url: /index.html#lectures--courses
     title: Lectures & Courses 
     identifier: lectures
