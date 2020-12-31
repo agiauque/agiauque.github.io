@@ -2,10 +2,12 @@
 layouts: default
 ---
 Welcome to my professional homepage!
+ 
+Researcher in Turbulence, Aerodynamics and Acoustics modeling in Mechanical Engineering. My current projects focus on turbulence modeling in dense gas flows and Large Eddy simulation applied to broadband noise modeling in turbomachinery. 
 
 # Research
 
-I am associate professor at [Ecole Centrale de Lyon](https://campus.ec-lyon.fr/) in the [Laboratoire de Mécanique des Fluides et Acoustique](http://lmfa.ec-lyon.fr/).  
+I am associate professor at [Ecole Centrale de Lyon](https://ec-lyon.fr/) in the [Laboratoire de Mécanique des Fluides et Acoustique](http://lmfa.ec-lyon.fr/).  
 I belong to the [Turbomachinery research department](http://lmfa.ec-lyon.fr/spip.php?rubrique63&lang=en) lead by Xavier Ottavy.  
 
 My research interests include Turbomachinery flows, combustion, acoustics and turbulence modeling using Large Eddy Simulation and Direct Numerical Simulation.
@@ -45,9 +47,9 @@ Once the models developed, **they will be validated against experimental results
 
 ## Publications & Conferences
 
-### Turbomachinery Flows and Dense Gas Turbulence Modeling
+## Turbomachinery Flows and Dense Gas Turbulence Modeling
 
-#### _Journal Articles_
+### _Journal Articles_
 
 [A-1] **Alexis Giauque**, Christophe Corre, and Aurélien Vadrot. Direct numerical simulations of forced homogeneous isotropic turbulence in a dense gas. Journal of Turbulence, 21(3), 186-208, 2020. ([Link](https://doi.org/10.1080/14685248.2020.1742916))
 
@@ -57,7 +59,7 @@ Once the models developed, **they will be validated against experimental results
 
 [A-4] **Alexis Giauque**, Christophe Corre, and Matteo Menghetti. Direct numerical simulations of homogeneous isotropic turbulence in a dense gas. In J Phys Conf Ser, volume 821, page 012017, 2017. ([Link](https://doi.org/10.1088/1742-6596/821/1/012017))
 
-#### _Conferences and Reports_
+### _Conferences and Reports_
 
 [C-1] Aurélien Vadrot, **Alexis Giauque**, and Christophe Corre. Investigation of turbulent dense gas flows with direct numerical simulation. In Congrès français de mécanique. AFM, Association Française de Mécanique, 2019. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
@@ -65,9 +67,9 @@ Once the models developed, **they will be validated against experimental results
 
 [C-3] **Alexis Giauque**, Jérôme Boudet, Hongwei Ma, and Wei Wei. Large eddy simulation of an axial compressor rotor passage: Preliminary comparison with experimental measurements. In Congrès français de mécanique. AFM, Association Française de Mécanique, 2015. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
-### Combustion and Acoustics Modeling
+## Combustion and Acoustics Modeling
 
-#### _Journal Articles_
+### _Journal Articles_
 
 [A-5] Ariane Emmanuelli, Jun Zheng, Maxime Huet, **Alexis Giauque**, Thomas Le Garrec, and Sébastien Ducruix. Description and application of a 2d-axisymmetric model for entropy noise in nozzle flows. Journal of Sound and Vibration, 2020. ([Link](https://doi.org/10.1016/j.jsv.2019.115163))
 
@@ -83,7 +85,7 @@ Once the models developed, **they will be validated against experimental results
 
 [A-11] **Alexis Giauque**, Laurent Selle, L Gicquel, T Poinsot, H Buechner, P Kaufmann, and W Krebs. System identification of a large-scale swirled partially premixed combustor using les and measurements. Journal of Turbulence, (6):N21, 2005. ([Link](https://doi.org/10.1080/14685240512331391985))
 
-#### _Conferences and Reports_
+### _Conferences and Reports_
 
 [C-4] Jun Zheng, Maxime Huet, **Alexis Giauque**, Franck Cléro, and Sébastien Ducruix. A 2d-axisymmetric analytical model for the estimation of indirect combustion noise in nozzle flows. In 21st AIAA/CEAS Aeroacoustics Conference, page 2974, 2015. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
@@ -105,60 +107,70 @@ Once the models developed, **they will be validated against experimental results
 
 #### PhD Thesis
 
-[PhD Thesis] **Alexis Giauque**. Flame transfer function and disturbance energies in gaseous reacting flows. PhD thesis, INP Toulouse, 2007. ([Link](https://http://www.theses.fr/en/2007INPT007H))
+[PhD Thesis] **Alexis Giauque**. Flame transfer function and disturbance energies in gaseous reacting flows. PhD thesis, INP Toulouse, 2007. ([Link](http://www.theses.fr/en/2007INPT007H))
 
 * * *
 
-# Lectures & Courses
+# Courses & Administrative Duties
+
+## Administrative Duties
+
+- In charge of the [Fluid Mechanics and Energy (MFE) track](http://offre-de-formations.univ-lyon1.fr/parcours-991/mecanique-des-fluides-et-energetique.html#) for the mechanical engineering Master's degree (Lyon 1-ECL) 
+
+## Courses
+### Semesters 1 & 2 (Bachelor)
+- Conférences UE PRO 
+- Fluides et Energie - Concepts et applications 
+- Fluides et Energie - Etudes thématiques 
+- Fluides et Energie - Méthodes expérimentales et numériques 
+- Projet d'Etudes 
+
+### Semesters 3 & 4 (Master 1)
+- Conférences UE PRO
+- Projet application Recherche
+
+### Semester 5 (Master 2)
+- Aérodynamique et Energétique des Turbomachines 
+- Combustion pour la propulsion 
+- Ecoulements instationnaires en turbomachine 
+- Les turbines pour la production d'énergie 
+- Projet Avion (Option Aéronautique) 
+- Aérodynamique transsonique
+
+- **Ecole Centrale Paris** 
+  - Aérodynamique et Energétique des Turbomachines
+
 
 * * *
 
 # Vitae
 
+
+**Since 2013 --- Associate Professor --- Ecole Centrale de Lyon**
+>My current projects focus on turbulence modeling in dense gas flows and Large Eddy simulation applied to broadband noise modeling in turbomachinery.
+
+**2009 – 2013 --- Research Engineer --- ONERA** 
+>Development of advanced computational strategies for noise simulation
+
+**2007 – 2009 --- Postdoctoral Research Fellow --- CTR Stanford University**
+>Development of splitting methods for the modeling of combustion noise in aircraft engines
+
+**2003 – 2007 --- PhD Student --- CERFACS** 
+>Pilot studies on the stability of terrestrial turbines combustion chambers.
+
+**1999 - 2002 --- Ecole Centrale Paris**
+>Specialization in Aeronautics and Space Engineering  
+>Master thesis on the modeling of plasma flows (EADS Astrium) 
+
+
 * * *
 
 # Contact
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Alexis Giauque  
+> Batiment I11   
+> Ecole Centrale de Lyon  
+> 36 avenue Guy de Collongue   
+> 69130 Écully   
+> email : alexis.giauque_at_ec-lyon.fr
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-The final element.
-```

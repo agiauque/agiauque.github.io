@@ -13,8 +13,8 @@ header:
         title: Publications & Conferences
         identifier: publi
         weight: 2
-  - url: /index.html#lectures--courses
-    title: Lectures & Courses 
+  - url: /index.html#courses--administrative-duties
+    title: Courses & Administrative Duties
     identifier: lectures
     weight: 2
   - url: /index.html#vitae
