@@ -167,10 +167,9 @@ Once the models developed, **they will be validated against experimental results
 
 # Contact
 
-> Alexis Giauque  
-> Batiment I11   
-> Ecole Centrale de Lyon  
-> 36 avenue Guy de Collongue   
-> 69130 Écully   
-> email : alexis.giauque@ec-lyon.fr
-
+> **Alexis Giauque**  
+> _Associate Professor_ ECL/LMFA UMR 5509  
+> **Address :** Batiment I11, Ecole Centrale de Lyon  
+> 36 avenue Guy de Collongue, 69130 Écully  
+> **Phone :** +33 (0)4 7218 6144  
+> **Homepage :** [agiauque.github.io](https://agiauque.github.io) 
