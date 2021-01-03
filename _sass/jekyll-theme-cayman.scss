@@ -53,8 +53,8 @@ body {
 }
 
 a {
-  color: $body-link-color;
-  text-decoration: none;
+  color: #1aab63; //$body-link-color;
+  text-decoration: underline; //none;
 
   &:hover {
     text-decoration: underline;
@@ -172,16 +172,29 @@ a {
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.0rem;
+
+    img {
+      max-width: 80%;
+      height: auto;
+    }
   }
 
   @include medium {
     padding: 2rem 4rem;
     font-size: 1.0rem;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
   }
 
   @include small {
     padding: 2rem 1rem;
     font-size: 1rem;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
   }
   
   kbd {
@@ -198,10 +211,6 @@ a {
     vertical-align: middle;
   }
 
-  img {
-    max-width: 100%;
-    height: auto;
-  }
 
   h1,
   h2,

@@ -43,11 +43,11 @@
       <ul>
         {% for item in site.data.menus.header %}
         <li style="font-size:1.2rem";>
-          <a href="{{ item.url | remove: 'index.html'}}" }}">{{ item.title }}</a>
+          <a href="{{ item.url | remove: 'index.html'}}" }}"><b>{{ item.title }}</b></a>
           <ul>
             {% for item in item.submenu %}
             <li style="font-size:1.2rem";>
-              <a href="{{ item.url | remove: 'index.html'}}" }}">{{ item.title }}</a>
+              <a href="{{ item.url | remove: 'index.html'}}" }}"><b>{{ item.title }}</b></a>
             </li>
             {% endfor %}
           </ul>

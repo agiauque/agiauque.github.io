@@ -1,10 +1,7 @@
 ---
 layouts: default
 ---
-Welcome to my professional homepage!
- 
-Researcher in Turbulence, Aerodynamics and Acoustics modeling in Mechanical Engineering. My current projects focus on turbulence modeling in dense gas flows and Large Eddy simulation applied to broadband noise modeling in turbomachinery. 
-
+<span style="color:white">Welcome to my professional homepage!</span>
 # Research
 
 I am associate professor at [Ecole Centrale de Lyon](https://ec-lyon.fr/) in the [Laboratoire de Mécanique des Fluides et Acoustique](http://lmfa.ec-lyon.fr/).  
@@ -14,14 +11,10 @@ My research interests include Turbomachinery flows, combustion, acoustics and tu
 
 ## Focus on Dense Gas Turbulence Modeling
 
-Dense gases, characterized by large molar masses and heat capacities are used in ORC (Organic Rankine Cycle) systems such as the one presented in the picture below. It is used to convert solar energy into electricity more efficiently. 
-
-![ORC](/assets/images/orc.jpg)
-Credit : STG international
-
+Dense gases, characterized by large molar masses and heat capacities are used in ORC (Organic Rankine Cycle) systems such as the one presented in the picture below. It is used to convert solar energy into electricity more efficiently.  
 To improve expanders and turbines efficiencies, manufacturers rely on Computational Fluid Dynamics (CFD) techniques such as Reynolds Average Navier-Stokes (RANS) or Large Eddy Simulation (LES). **Yet, turbulence in dense gas flows remains to be understood and new turbulence closure models need to be developed beyond the perfect gas hypothesis**
 
-## Beyond the perfect gas hypothesis 
+### Beyond the perfect gas hypothesis 
 
 **To analyze and model the peculiar behavior of turbulence in dense gas flows, the ANR project EDGES (project grant #ANR-17-CE06-0014-01) has been launched in 2018 for a duration of 4 years.**
 
@@ -31,13 +24,13 @@ This project involves [Christophe Corre (Full Professor)](https://www.researchga
 
 ![focus2](/assets/images/focus2.png)
 
-## Using Machine learning to model turbulence and thermodynamics in dense gas flows
+### Using Machine learning to model turbulence and thermodynamics in dense gas flows
 
 **A database of more than 10 billion grid points has been gathered using the [AVBP solver.](http://www.cerfacs.fr/avbp7x/)** Using HPC and Machine learning, the team is currently developing turbulence closure models for RANS and LES.
 
 ![focus3](/assets/images/focus3.png)
 
-## What's next?
+### What's next?
 
 Once the models developed, **they will be validated against experimental results and transfered to the industry** in order to enable a better optimization of renewable energy production systems that use dense gas flows.
 
@@ -105,9 +98,14 @@ Once the models developed, **they will be validated against experimental results
 
 [C-12] **Alexis Giauque**, T Poinsot, M Brear, and F Nicoud. Budget of disturbance energy in gaseous reacting flows. In Proc. of the Summer Program, pages 285–297. Center for Turbulence Research, NASA Ames/Stanford Univ., 2006. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
-#### PhD Thesis
+#### Ph.D. Thesis
 
 [PhD Thesis] **Alexis Giauque**. Flame transfer function and disturbance energies in gaseous reacting flows. PhD thesis, INP Toulouse, 2007. ([Link](http://www.theses.fr/en/2007INPT007H))
+
+## Ph.D. students
+- 2019-2022 --- [**Jean Al Am**](https://www.researchgate.net/profile/Jean_Al_Am) --- Modeling of fan broadband noise (PI : Jérôme Boudet)
+- 2018-2021 --- [**Aurélien Vadrot**](https://www.researchgate.net/profile/Aurelien_Vadrot) --- Modeling of turbulence in dense gas flows (PI: Christophe Corre)
+- 2012-2016 --- [**Jun Zheng**](https://www.linkedin.com/in/jun-zheng-aa467392/?originalSubdomain=fr) --- [Étude analytique et numérique du bruit de combustion indirect généré par l'injection d'ondes entropiques dans une tuyère.](https://www.theses.fr/2016SACLC070) (PI: Sébastien Ducruix)
 
 * * *
 
@@ -116,6 +114,8 @@ Once the models developed, **they will be validated against experimental results
 ## Administrative Duties
 
 - In charge of the [Fluid Mechanics and Energy (MFE) track](http://offre-de-formations.univ-lyon1.fr/parcours-991/mecanique-des-fluides-et-energetique.html#) for the mechanical engineering Master's degree (Lyon 1-ECL) 
+- Head of Fluid Mechanics and Energy practical sessions (Semesters 1 & 2)
+- Member of the conferences organizing committee at ECL 
 
 ## Courses
 ### Semesters 1 & 2 (Bachelor)
@@ -130,15 +130,15 @@ Once the models developed, **they will be validated against experimental results
 - Projet application Recherche
 
 ### Semester 5 (Master 2)
-- Aérodynamique et Energétique des Turbomachines 
-- Combustion pour la propulsion 
-- Ecoulements instationnaires en turbomachine 
-- Les turbines pour la production d'énergie 
-- Projet Avion (Option Aéronautique) 
-- Aérodynamique transsonique
+- <a href="https://pedagogie3.ec-lyon.fr/course/view.php?id=1199">Aérodynamique et Energétique des Turbomachines</a>
+- <a href="https://pedagogie3.ec-lyon.fr/course/view.php?id=1208">Combustion pour la propulsion</a>
+- <a href="https://pedagogie3.ec-lyon.fr/course/view.php?id=1417">Ecoulements instationnaires en turbomachine</a>
+- <a href="https://pedagogie3.ec-lyon.fr/course/view.php?id=1225">Les turbines pour la production d'énergie</a>
+- <a href="https://pedagogie3.ec-lyon.fr/course/view.php?id=1324">Projet Avion (Option Aéronautique)</a>
+- <a href="https://pedagogie3.ec-lyon.fr/course/view.php?id=1407">Aérodynamique transsonique</a>
 
 - **Ecole Centrale Paris** 
-  - Aérodynamique et Energétique des Turbomachines
+  - Aérodynamique et Energétique des Turbomachines 
 
 
 * * *
@@ -172,5 +172,5 @@ Once the models developed, **they will be validated against experimental results
 > Ecole Centrale de Lyon  
 > 36 avenue Guy de Collongue   
 > 69130 Écully   
-> email : alexis.giauque_at_ec-lyon.fr
+> email : alexis.giauque@ec-lyon.fr
 
