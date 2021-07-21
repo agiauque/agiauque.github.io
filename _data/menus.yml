@@ -25,4 +25,8 @@ header:
     title: Contact
     identifier: contact
     weight: 2
+  - url: /index.html#media
+    title: Media
+    identifier: media
+    weight: 2  
 ---

@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: Alexis Giauque<br/> Associate Professor<br/> Ecole Centrale de Lyon 
-description: Welcome to my professional homepage!<br/> <b><a href="/assets/docs/MasterThesis-ECL.pdf"> New Master Thesis proposal!</a></b>
+description: Welcome to my professional homepage!<br/> <b><a href="http://lmfa.ec-lyon.fr/spip.php?article1514"> Check out ongoing research at LMFA! (in French)</a></b>
+#description: Welcome to my professional homepage!<br/> <b><a href="/assets/docs/MasterThesis-ECL.pdf"> New Master Thesis proposal!</a></b>
+#description: Welcome to my professional homepage!
 name: A.Giauque
 
 # Author Settings
