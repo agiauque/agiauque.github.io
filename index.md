@@ -43,7 +43,7 @@ Once the models developed, **they will be validated against experimental results
 
 ## HdR (Habilitation à diriger des Recherches) Thesis
 
-[HdR Thesis] **Alexis Giauque**. Modeling of turbulence and acoustics in complex compressible flows using Theory, Large Eddy Simulation and Machine Learning. HdR thesis, Lyon 1 University, 2024. ([Link to the Video](https://replay.ec-lyon.fr/video/1149-agiauque-hdr-defense-modeling-of-turbulence-and-acoustics-in-complex-compressible-flows-using-theory-large-eddy-simulation-and-machine-learning/))
+[HdR Thesis] **Alexis Giauque**. Modeling of turbulence and acoustics in complex compressible flows using Theory, Large Eddy Simulation and Machine Learning. HdR thesis, Lyon 1 University, 2024. ([Link to the Video](https://replay.ec-lyon.fr/video/1149-agiauque-hdr-defense-modeling-of-turbulence-and-acoustics-in-complex-compressible-flows-using-theory-large-eddy-simulation-and-machine-learning/)) ([Link to the Manuscript](https://hal.science/tel-04660217))
 
 ## Publications & Conferences
 

@@ -10,7 +10,7 @@ header:
         identifier: focus
         weight: 2
       - url: /index.html#publications--conferences
-        title: Publications & Conferences
+        title: HDR & Publications & Conferences
         identifier: publi
         weight: 2
   - url: /index.html#courses--administrative-duties
