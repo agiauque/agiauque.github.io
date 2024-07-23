@@ -51,7 +51,7 @@ Once the models developed, **they will be validated against experimental results
 
 ### _Journal Articles_
 
-[A-1] Pierre Duquesne, Jérôme Dombard, Nicolas Poujol, and ** Alexis Giauque**. An Open–Closed Flow Separation in a Compressor Radial Diffuser. ASME. J. Turbomach. 2024; 146(10): 101011. ([Link](https://doi.org/10.1115/1.4065413))
+[A-1] Pierre Duquesne, Jérôme Dombard, Nicolas Poujol, and **Alexis Giauque**. An Open–Closed Flow Separation in a Compressor Radial Diffuser. ASME. J. Turbomach. 2024; 146(10): 101011. ([Link](https://doi.org/10.1115/1.4065413))
 
 [A-2] **Alexis Giauque**, Corentin Giguet, Aurélien Vadrot, and Christophe Corre. A priori test of Large-Eddy Simulation models for the Sub-Grid Scale turbulent stress tensor in perfect and transcritical compressible real gas Homogeneous Isotropic Turbulence. Computers & Fluids, Volume 268, 2024. ([Link](https://doi.org/10.1016/j.compfluid.2023.106091.))
 
@@ -71,9 +71,9 @@ Once the models developed, **they will be validated against experimental results
 
 ### _Conferences and Reports_
 
-[C-1] Schuster, D., Ince, Y., Giauque, A., Corre, C. (2023). Assessment of Density and Compressibility Corrections for RANS Simulations of Real Gas Flows Using SU2. Proceedings of the 4th International Seminar on Non-Ideal Compressible Fluid Dynamics for Propulsion and Power. NICFD 2022. ERCOFTAC Series, vol 29. Springer, Cham. ([Link](https://doi.org/10.1007/978-3-031-30936-6_9))
-
-[C-2] Giauque, A., Vadrot, A., Corre, C. (2023). Development, Validation and Application of an ANN-Based Large Eddy Simulation Subgrid-Scale Turbulence Model for Dense Gas Flows. Proceedings of the 4th International Seminar on Non-Ideal Compressible Fluid Dynamics for Propulsion and Power. NICFD 2022. ERCOFTAC Series, vol 29. Springer, Cham. ([Link](https://doi.org/10.1007/978-3-031-30936-6_5))
+[C-1] Dominik Schuster, Yusuf Ince, **Alexis Giauque**, and Christophe Corre. Assessment of Density and Compressibility Corrections for RANS Simulations of Real Gas Flows Using SU2. Proceedings of the 4th International Seminar on Non-Ideal Compressible Fluid Dynamics for Propulsion and Power. NICFD 2022. ERCOFTAC Series, vol 29. Springer, Cham. 2023 ([Link](https://doi.org/10.1007/978-3-031-30936-6_9))
+ 
+[C-2] **Alexis Giauque**, Aurélien Vadrot, and Christophe Corre. Development, Validation and Application of an ANN-Based Large Eddy Simulation Subgrid-Scale Turbulence Model for Dense Gas Flows. Proceedings of the 4th International Seminar on Non-Ideal Compressible Fluid Dynamics for Propulsion and Power. NICFD 2022. ERCOFTAC Series, vol 29. Springer, Cham. 2023 ([Link](https://doi.org/10.1007/978-3-031-30936-6_5))
 
 [C-3] Aurélien Vadrot, **Alexis Giauque**, and Christophe Corre. Investigation of turbulent dense gas flows with direct numerical simulation. In Congrès français de mécanique. AFM, Association Française de Mécanique, 2019. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
@@ -128,16 +128,16 @@ Once the models developed, **they will be validated against experimental results
 [C-13] **Alexis Giauque** and H Pitsch. Detailed modeling of combustion noise using a hydrodynamic/acoustic splitting model. Center for Turbulence Research, Annual Research Briefs, pages 325–337, 2008. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
 [C-14] Mohsen Talei, Michael Brear, Franck Nicoud, Daniel Bodony, and **Alexis Giauque**. Transport of disturbance energy in hot and cold turbulent jets. In 13th AIAA/CEAS Aeroacoustics Conference (28th AIAA Aeroacoustics Conference), page 3633, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
+ 
+[C-15] AX Sengissen, **Alexis Giauque**, GS Staffelbach, M Porta, W Krebs, P Kaufmann, and TJ Poinsot. Large eddy simulation of piloting effects on turbulent swirling flames. Proceedings of the Combustion Institute, 31(2):1729–1736, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
-[C-8] AX Sengissen, **Alexis Giauque**, GS Staffelbach, M Porta, W Krebs, P Kaufmann, and TJ Poinsot. Large eddy simulation of piloting effects on turbulent swirling flames. Proceedings of the Combustion Institute, 31(2):1729–1736, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
+[C-16] **Alexis Giauque**, Anne Laure Birbaud, and Heinz Pitsch. Entropy generated noise: a comparison between compressible simulations and golstein’s acoustic analogy. APS, 60:GH–005, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
-[C-15] **Alexis Giauque**, Anne Laure Birbaud, and Heinz Pitsch. Entropy generated noise: a comparison between compressible simulations and golstein’s acoustic analogy. APS, 60:GH–005, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
+[C-17] **Alexis Giauque**, Franck Nicoud, and Michael Brear. Numerical assessment of stability criteria from disturbance energies in gaseous combustion. In 13th AIAA/CEAS Aeroacoustics Conference (28th AIAA Aeroacoustics Conference), page 3425, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
-[C-16] **Alexis Giauque**, Franck Nicoud, and Michael Brear. Numerical assessment of stability criteria from disturbance energies in gaseous combustion. In 13th AIAA/CEAS Aeroacoustics Conference (28th AIAA Aeroacoustics Conference), page 3425, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
+[C-18] **Alexis Giauque** and H Pitsch. Detailed modeling of combustion noise using a computational aeroacoustics model. Stanford CTR Annual Research Briefs, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
-[C-17] **Alexis Giauque** and H Pitsch. Detailed modeling of combustion noise using a computational aeroacoustics model. Stanford CTR Annual Research Briefs, 2007. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
-
-[C-18] **Alexis Giauque**, T Poinsot, M Brear, and F Nicoud. Budget of disturbance energy in gaseous reacting flows. In Proc. of the Summer Program, pages 285–297. Center for Turbulence Research, NASA Ames/Stanford Univ., 2006. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
+[C-19] **Alexis Giauque**, T Poinsot, M Brear, and F Nicoud. Budget of disturbance energy in gaseous reacting flows. In Proc. of the Summer Program, pages 285–297. Center for Turbulence Research, NASA Ames/Stanford Univ., 2006. ([Link](https://www.researchgate.net/profile/Alexis_Giauque/publications))
 
 #### Ph.D. Thesis
 

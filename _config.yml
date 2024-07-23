@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Alexis Giauque<br/> Associate Professor<br/> Ecole Centrale de Lyon 
-description: Welcome to my professional homepage!<br/> <b><a href="http://lmfa.ec-lyon.fr/spip.php?article1514"> Check out ongoing research at LMFA! (in French)</a></b>
+description: Welcome to my professional homepage!<br/> <b><a href="https://replay.ec-lyon.fr/video/1149-agiauque-hdr-defense-modeling-of-turbulence-and-acoustics-in-complex-compressible-flows-using-theory-large-eddy-simulation-and-machine-learning/"> Check out my HdR defense (Habilitation à diriger des Recherches)!</a></b>
+#description: Welcome to my professional homepage!<br/> <b><a href="http://lmfa.ec-lyon.fr/spip.php?article1514"> Check out ongoing research at LMFA! (in French)</a></b>
 #description: Welcome to my professional homepage!<br/> <b><a href="/assets/docs/MasterThesis-ECL.pdf"> New Master Thesis proposal!</a></b>
 #description: Welcome to my professional homepage!
 name: A.Giauque
@@ -12,7 +13,7 @@ about-author: # I am a web developer focusing on front-end development. Always h
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: agiauque # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: alexisgiauque # add your Linkedin handle
 social-email: # add your Email address
 
 #plugins:
